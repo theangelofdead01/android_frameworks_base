@@ -38,6 +38,7 @@
             android:layout_width="wrap_content"
             android:layout_height="24dp"
             android:textColor="?attr/wallpaperTextColor"
+            android:includeFontPadding="false"
             android:gravity="center_vertical"
             android:singleLine="true"
             android:paddingStart="8dp"
